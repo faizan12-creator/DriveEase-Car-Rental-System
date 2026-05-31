@@ -196,7 +196,7 @@ The `SceneController` interface decouples scene builders from `Drive.java` — n
 ## 👨‍💻 Developer
 
 **Faizan Gul**  
-BS Computer Science  
+## BS Software Engineering  
 
 ---
 
